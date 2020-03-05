@@ -171,6 +171,7 @@ h4 {
   top: 2px;
   left: 80px;
   margin-bottom: 2rem;
+  text-shadow: 0 0 5px #000;
 }
 
 .mediakit h2 {
