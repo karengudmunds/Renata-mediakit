@@ -192,10 +192,11 @@ h4 {
   padding-bottom: 2rem;
 }
 
+/* banner image  */
 .banner {
-  background-image: url(Images/MEIOCPHOTOS-3945.jpg);
+  background-image: url(Images/renata1.jpg);
   background-size: cover;
-  background-position: 50% 65%;
+  background-position: 30% 55%;
   min-height: 80vh;
 }
 
